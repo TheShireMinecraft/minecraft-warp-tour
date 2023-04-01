@@ -1,0 +1,13 @@
+main: us.shirecraft.warptours.WarpTours
+name: WarpTours
+version: '0.0.1'
+description: "Create tours of your server based on Essentials warps"
+api-version: 1.19
+load: POSTWORLD
+author: Blitheness
+website: shirecraft.us
+prefix: WarpTours
+commands:
+  tour:
+    description: "Open a list of tours, or view the default tour."
+    usage: /tour [tour name|list|reset]

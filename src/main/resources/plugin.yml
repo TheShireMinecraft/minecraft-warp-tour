@@ -1,6 +1,6 @@
 main: us.shirecraft.warptours.WarpTours
 name: WarpTours
-version: '0.0.1'
+version: '0.0.2'
 description: "Create tours of your server based on Essentials warps"
 api-version: 1.19
 load: POSTWORLD

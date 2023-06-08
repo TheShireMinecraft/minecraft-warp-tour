@@ -6,7 +6,7 @@
 
     <groupId>us.shirecraft</groupId>
     <artifactId>minecraft-warp-tour</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <name>MinecraftPlayerVerification</name>
     <packaging>jar</packaging>
     <url>https://github.com/TheShireMinecraft/minecraft-warp-tour</url>
@@ -43,7 +43,7 @@
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>1.19-R0.1-SNAPSHOT</version>
+            <version>1.20-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
